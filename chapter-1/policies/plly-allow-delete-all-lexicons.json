@@ -1,0 +1,11 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [{
+        "Sid": "AllowDeleteSpecifiedRegion",
+        "Effect": "Allow",
+        "Action": [
+            "polly:DeleteLexicon"
+        ],
+        "Resource": "arn:aws:polly:us-east-2:123456789012:lexicon/*"
+    }]
+}
