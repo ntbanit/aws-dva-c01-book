@@ -5,6 +5,5 @@
 ## webserver-ec2 : i-00ebb69cb10158073
 * Public IPv4 address : 18.143.135.96
 
-## 2-6: create a nat-instance 
-https://docs.aws.amazon.com/vpc/latest/userguide/VPC_NAT_Instance.html
-- create a security group : 
+## private instance :
+* private IPv4 address : 10.0.0.118
